@@ -1,0 +1,14 @@
+baseURL = "exiagarden.github.io/"
+languageCode = "en-us"
+title = "EXIA's Garden"
+theme = "blowfish"
+
+[author]
+name = "EXIA"
+image = "img/profilepic1.jpg"
+headline = "EXIA's Digital Garden"
+bio = "This is my digital garden where I like to put down my thoughts and ideas."
+links = [
+  { twitter = "https://twitter.com/exia_darkstar" },
+  { github = "https://github.com/ooexiaoo" }
+]

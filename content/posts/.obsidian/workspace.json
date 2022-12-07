@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "6b91029f7206c643",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6420e2111deaa65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5741e561762f0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf44cf1e30fe6c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa18ec1716c8df4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12329133d1eb3efc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21f7b22664c9a41a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5b1dbe3a8f21523",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04982fb2f554b859",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0fe0d58ee342a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c5d44483df50294",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1de62e03385fdca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a81a0db93f003070",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fdaee14aa9638b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b5741e561762f0e",
+  "lastOpenFiles": [
+    "featured.jpg.md",
+    "How To Be A Good Friend.md",
+    "post.md",
+    "😇 How To Become A Good Friend.md"
+  ]
+}
