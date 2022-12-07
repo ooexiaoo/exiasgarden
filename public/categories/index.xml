@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on EXIA&#39;s Garden</title>
+    <link>exiagarden.github.io/categories/</link>
+    <description>Recent content in Categories on EXIA&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2022 14:45:30 +0530</lastBuildDate><atom:link href="exiagarden.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Development</title>
+      <link>exiagarden.github.io/categories/personal-development/</link>
+      <pubDate>Sat, 26 Nov 2022 14:45:30 +0530</pubDate>
+      
+      <guid>exiagarden.github.io/categories/personal-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>exiagarden.github.io/categories/thoughts/</link>
+      <pubDate>Mon, 16 May 2022 04:15:30 +0530</pubDate>
+      
+      <guid>exiagarden.github.io/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fleeting Notes</title>
+      <link>exiagarden.github.io/categories/fleeting-notes/</link>
+      <pubDate>Thu, 28 Oct 2021 23:32:30 +0530</pubDate>
+      
+      <guid>exiagarden.github.io/categories/fleeting-notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
