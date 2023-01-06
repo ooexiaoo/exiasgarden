@@ -2,10 +2,11 @@
 title: "🔎 Finding Meaning In Life With Friends And Family"
 date: 2022-11-10T22:21:30+05:30
 categories:
-    - Personal Development
+    - Permanent Notes
 tags: 
     - Family
     - Friends
+    - Personal Development
 ---
 Friends and family are the most important part of my life, like for many others. I cannot imagine my life without these people. Although it's hard to explain what they mean to me or how friends and family can give your life meaning but, Here's what I have. I might not be able to formulate all my thoughts properly, So I might add another post in the future.
 
@@ -39,6 +40,3 @@ Spending time together also creates bonds that hold through the test of time. Re
 
 # Conclusion
 Life is hard, we go through a lot from good to bad. It's always a good idea to have some amazing people in this journey of life. You can find meaning in life without a family, Yes it's totally possible, but most of us have amazing families so why not make this journey even better with what we've got?!
-
-🔗 Helpful Links - https://en.amerikanki.com/ways-family-life-happier/
-https://www.happiness.com/magazine/relationships/why-is-family-important-for-happiness/

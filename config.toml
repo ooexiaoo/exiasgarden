@@ -1,12 +1,12 @@
-baseURL = "exiagarden.github.io/"
+baseURL = "https://exiasgarden.pages.dev"
 languageCode = "en-us"
 title = "EXIA's Garden"
 theme = "blowfish"
 
 [author]
 name = "EXIA"
-image = "img/profilepic1.jpg"
-headline = "EXIA's Digital Garden"
+image = "img/profilepic.png"
+headline = "Welcome To My Digital Garden"
 bio = "This is my digital garden where I like to put down my thoughts and ideas."
 links = [
   { twitter = "https://twitter.com/exia_darkstar" },

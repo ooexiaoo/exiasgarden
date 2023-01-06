@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 💻 Webpages on EXIA&#39;s Garden</title>
+    <link>https://exiasgarden.pages.dev/moc/coding/webpages/</link>
+    <description>Recent content in  💻 Webpages on EXIA&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2022 09:23:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/moc/coding/webpages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💻 Web Pages I&#39;ve Codded From Scratch</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/</link>
+      <pubDate>Wed, 28 Dec 2022 09:23:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/</guid>
+      <description>Matrix&gt; Matrix # https://ooexiaoo.github.io/Matrix/ Is a cyperpunk style webpage and I added some images and created a projects section as well for this.
+Waifu-Walls&gt; Waifu-Walls # https://ooexiaoo.github.io/Waifu-Walls/ Attempted to create a neomorphic and glassmorphic design, didn&amp;rsquo;t turn out to be too good, but is a good experience to make this design. The webpage doesn&amp;rsquo;t do anything, it&amp;rsquo;s more of a design practice.
+Personal-site-trial&gt; Personal-site-trial # https://ooexiaoo.github.io/personal-site-trial/ I really wanted to try neomorphism design, so spent a few days writing some code for this one.</description>
+    </item>
+    
+  </channel>
+</rss>

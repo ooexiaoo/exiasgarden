@@ -2,9 +2,10 @@
 title: "😇 How To Become A Good Friend"
 date: 2022-10-16T20:47:31+05:30
 categories:
-    - Personal Development
+    - Permanent Notes
 tags: 
     - Friendship
+    - Personal Development
 ---
 # Who Is A Friend?
 It can be easy and hard to define what friendship is depending on who you're talking to, but as I'm getting older the more I look into it, the better I feel about the friends that I have in my life.
@@ -38,8 +39,8 @@ We often don't take care of ourselves as much as we tend to do of the people who
 ## Why Is It Rare To Find Good Friends
 Good friends are very rare to find and even if they are found it's rare for people to build a relationship so strong that it lasts a lifetime, and you might wonder why is that?
 
-### In my opinion, there are a few reasons -
-### You Don't Find Them Compatible
+## In my opinion, there are a few reasons -
+## You Don't Find Them Compatible
 We tend to blend in with people who think and act they way we do.
 
 If you're going to make a life-long friend, there are most likely going to be some common topics that you'd both be interested in. This creates an environment where you both might have similar tastes and thinking patterns. You don't have to be too similar in order to make a wonderful bond, you can have completely opposite opinion to your friend but until you respect each other's opinions you can still make it work. More on this in points below.
@@ -52,7 +53,7 @@ When we find someone with the potential of being a true friend, but there's can 
 
 These things are fairly subconscious, but they are there. We just don't find people like these attractive and avoid hanging out too much with them.
 
-### You Don't Give Enough Time
+## You Don't Give Enough Time
 Time is a valuable deterrent when it comes to building a great friendship. When you're getting to know people and creating a bond, time becomes extremely important.
 
 Think about having the chance to see all the different sides of someone. The more chances you have of doing so, the better and faster you'll be able to understand them. When it comes to time, it doesn't have to be a lot of time in a specific period. We just cumulatively keep the data in of how much time we've spent with someone subconsciously.
@@ -61,7 +62,7 @@ To consider someone a friend, different people have different time spans. Someon
 
 How we decide this just doesn't rely on the time, but also circumstances as well, Which we'll see in the other points.
 
-### One Person Does All The Work
+## One Person Does All The Work
 You can have selfish **'friends'** who are always there to take things from you. These are mostly your time and favor. Like, **_"can you do this for me?", "help me out with this or that"._**
 
 The problem is that they never give back or help you out when you need them. This one-sided favors are never sustainable in any friendship. Soon enough, you'll lose respect for them and won't consider them a friend.
@@ -72,7 +73,7 @@ They'll make you remember all the things they did for you, so that you listen to
 
 In these kinds of situations, it is best to be clear, define your rules of **'friendship'** **_(if that's what you want to call it)_** to them so that it doesn't continue.
 
-### You Don't Respect Each Other
+## You Don't Respect Each Other
 Respect is a funny thing, and it's not paid much attention when it comes to friendship, but it's something that will make your friendship worth a lot more.
 
 **When you respect someone, you listen to their words and advice well.** You try to learn from them and understand their point of view. You might not accept everything they say, but if you make the right friends, you listen to them when they are giving you any advice.
@@ -83,7 +84,7 @@ Well, NO! We all have invisible boundaries, like someone might be too intrusive,
 
 This is why, **"respect for someone creates a boundary"** and it's best to keep those boundaries because you won't cross any lines that might hurt your friends.
 
-### You Haven't Gone Through Similar Experiences Together
+## You Haven't Gone Through Similar Experiences Together
 Going through similar experiences is an automatic **'bond maker'**. We can instantly relate to people who have gone through the same shit that we have. It can be anything from your home environment to the college you guys went to.
 
 If you have very different experiences then you might be interested in finding out what experiences the other person might have, it's also a double-edged sword as your overall views might not match with them. This is similar to the first point of being incompatible.
@@ -104,8 +105,3 @@ We already have most of the answer above, but here are a few more things -
 8. They don’t take advantage of you.
 
 In the end you need to realise that bonds aren't created they just happen, given that you find a reasonable person for it to happen with!
-
----
- 🧶 Tags - #Letterstonoone, #Permanent_Notes 
- ---
- Links - https://youtu.be/q7mclfwHq7Y

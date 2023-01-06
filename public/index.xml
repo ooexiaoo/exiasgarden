@@ -2,86 +2,379 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EXIA&#39;s Garden</title>
-    <link>exiagarden.github.io/</link>
+    <link>https://exiasgarden.pages.dev/</link>
     <description>Recent content on EXIA&#39;s Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2022 14:45:30 +0530</lastBuildDate><atom:link href="exiagarden.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 13:33:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About My Garden</title>
+      <link>https://exiasgarden.pages.dev/moc/about-my-garden/</link>
+      <pubDate>Wed, 04 Jan 2023 13:33:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/about-my-garden/</guid>
+      <description>MOCs&gt; MOCs # Maps Of Contents or MOCs are nothing more than a dashboard on a specific topic. They are there to provide an easy way to access and absorb any content on the site.
+Fleeting Notes&gt; Fleeting Notes # Fleeting notes are ideas that are captured in a quick and easy to digest format. These are not complete ideas and are often nothing more than a few points. These can be mostly be found in level 64.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/about-my-garden/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/</link>
+      <pubDate>Mon, 02 Jan 2023 11:20:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/</guid>
+      <description>A function is a block of code that&amp;rsquo;s named, you can use that name or a variable that points to that function.
+If you&amp;rsquo;re not writing the code inside a function, then you&amp;rsquo;re writing the code inside the global scope, which is pretty limited. Most of the code that you write, you&amp;rsquo;d want them to be reusable within functions.
+Function Basics&gt; Function Basics # One way to look at functions is that a function is a block of code with a name and because it has a name you can call it over and over.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/feature.webp" />
+    </item>
+    
+    <item>
+      <title>If You Don&#39;t Have Regrets You&#39;re Doing Life Wrong</title>
+      <link>https://exiasgarden.pages.dev/posts/if-you-dont-have-regrets-youre-doing-life-wrong/</link>
+      <pubDate>Sat, 31 Dec 2022 09:03:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/posts/if-you-dont-have-regrets-youre-doing-life-wrong/</guid>
+      <description>We all are taught, &amp;ldquo;Live a life, where you don&amp;rsquo;t have any regrets&amp;rdquo;, You subscribe to the idea and think &amp;ldquo;OK, I&amp;rsquo;ll live a life, where I don&amp;rsquo;t have any regrets!&amp;rdquo;, This sounds great from a macro perspective, but once you start to look at things from a microscopic level you start to see how difficult and punishing this kind of mindset can be.
+Just to be clear, I&amp;rsquo;m not going to be talking about the obvious things one must do to avoid regrets.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/posts/if-you-dont-have-regrets-youre-doing-life-wrong/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Program Flow</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/</link>
+      <pubDate>Thu, 29 Dec 2022 08:37:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/</guid>
+      <description>Ref Link - https://www.pluralsight.com/courses/javascript-getting-started
+In JavaScript, sometimes we have to conditionally execute some code blocks, but if the condition is not fulfilled we don&amp;rsquo;t.
+We do this by adding if statement and in parentheses we put the conditions (5 === 5) if the condition is true we execute the code block, in this case it&amp;rsquo;s the code in the parentheses {}.
+In the example below, we are working with numbers, but in most cases we&amp;rsquo;ll be working with variables as shown in the second example.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/feature.webp" />
+    </item>
+    
+    <item>
+      <title>💻 Web Pages I&#39;ve Codded From Scratch</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/</link>
+      <pubDate>Wed, 28 Dec 2022 09:23:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/</guid>
+      <description>Matrix&gt; Matrix # https://ooexiaoo.github.io/Matrix/ Is a cyperpunk style webpage and I added some images and created a projects section as well for this.
+Waifu-Walls&gt; Waifu-Walls # https://ooexiaoo.github.io/Waifu-Walls/ Attempted to create a neomorphic and glassmorphic design, didn&amp;rsquo;t turn out to be too good, but is a good experience to make this design. The webpage doesn&amp;rsquo;t do anything, it&amp;rsquo;s more of a design practice.
+Personal-site-trial&gt; Personal-site-trial # https://ooexiaoo.github.io/personal-site-trial/ I really wanted to try neomorphism design, so spent a few days writing some code for this one.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/feature.webp" />
+    </item>
+    
+    <item>
+      <title>What Alcohol Does To Your Body, Brain &amp; Health</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/what-alcohol-does-to-your-body-brain-health/</link>
+      <pubDate>Sun, 25 Dec 2022 06:59:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/what-alcohol-does-to-your-body-brain-health/</guid>
+      <description>All of the text is converted from a diagram that I made as it&amp;rsquo;s quite hard to showcase the whole diagram here&gt; All of the text is converted from a diagram that I made as it&amp;rsquo;s quite hard to showcase the whole diagram here # Even low consumption of alcohol, such as 1 drink per day (or 5-7 a week) has been shown to cause thinning of neocortex and other brain regions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/what-alcohol-does-to-your-body-brain-health/feature.webp" />
+    </item>
+    
+    <item>
+      <title>📺 Watch List</title>
+      <link>https://exiasgarden.pages.dev/moc/watchlist/anime-watch-list-2022/</link>
+      <pubDate>Thu, 22 Dec 2022 23:05:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/watchlist/anime-watch-list-2022/</guid>
+      <description> Attack On Titan Season 4 - part 2 Spy X Family Skeleton Knight In Another World Promised Neverland Part 2 Saihate No Paladin (Currently Watching, Kinda Boring second half) Tate No Yuusha Season 2 (Feels very Shonen-esc) My Dress up Darling My Hero Academia Season 1,2,3,4,5 and the movies Net-Juu No Susume Cyberpunk: Edgerunners Overlord 4 Isekai Meikyuu De Harem Wo The Dungeon Only I Can Enter Tsuki Ga Michibiku Isekai Arcane </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/watchlist/anime-watch-list-2022/feature.webp" />
+    </item>
+    
+    <item>
+      <title>📃 Good Reads</title>
+      <link>https://exiasgarden.pages.dev/moc/good-reads/</link>
+      <pubDate>Wed, 21 Dec 2022 21:10:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/good-reads/</guid>
+      <description> https://www.simplypsychology.org/Zone-of-Proximal-Development.html </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/good-reads/feature.webp" />
+    </item>
+    
+    <item>
+      <title>📱 Life Without Social Media</title>
+      <link>https://exiasgarden.pages.dev/posts/life-without-social-media/</link>
+      <pubDate>Sun, 11 Dec 2022 15:28:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/posts/life-without-social-media/</guid>
+      <description>Here&amp;rsquo;s a bit of an intro. The reason I uninstalled all my social media apps was with the realization that I might be too addicted to using these apps on a daily basis. The problem with any kind of addiction is that you don&amp;rsquo;t realize that you&amp;rsquo;re addicted. You&amp;rsquo;d see examples of these everywhere. Ask a chain smoker if they can stop smoking? And the answer will be something like, &amp;ldquo;I can stop whenever I want, it&amp;rsquo;s just that I don&amp;rsquo;t want to stop yet!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/posts/life-without-social-media/feature.png" />
+    </item>
+    
+    <item>
+      <title>🪙 Some Data On Gold</title>
+      <link>https://exiasgarden.pages.dev/moc/finance-notes/-average-gain-by-investing-in-gold/</link>
+      <pubDate>Thu, 08 Dec 2022 09:40:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/finance-notes/-average-gain-by-investing-in-gold/</guid>
+      <description>Gold Prices Over The Years (International)&gt; Gold Prices Over The Years (International) # Inflation Rate In India&gt; Inflation Rate In India # India: Inlfation rate from 1987 to 2027&gt; India: Inlfation rate from 1987 to 2027 # Gold Vs Stocks Long-term Price Chart&gt; Gold Vs Stocks Long-term Price Chart # Gold Price In India Table
+Year Price (24 karat per 10 grams) 1964 Rs.63.25 1965 Rs.71.75 1966 Rs.83.75 1967 Rs.102.50 1968 Rs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/finance-notes/-average-gain-by-investing-in-gold/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>My Music List</title>
+      <link>https://exiasgarden.pages.dev/moc/music/my-music-list/</link>
+      <pubDate>Thu, 08 Dec 2022 06:25:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/music/my-music-list/</guid>
+      <description>I&amp;rsquo;ll let you know that I have some weird taste in music. There are way too many songs to put in this list, but here is what I have right now.
+The list gets updated automatically as I add more songs to it. Here&amp;rsquo;s the link to the playlist. Feel free to add it to your own YouTube account. (I don&amp;rsquo;t know why would you do that though!) </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/music/my-music-list/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>What Is A PKM And Why Should You Care</title>
+      <link>https://exiasgarden.pages.dev/posts/what-is-a-pkm/</link>
+      <pubDate>Thu, 01 Dec 2022 16:08:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/posts/what-is-a-pkm/</guid>
+      <description>PKM in its full form is known as personal knowledge management, is a system which helps you keep a database of all the knowledge that is important to you in your life. We all have the same problem, which is remembering things that help us make sense of the world.
+You can use a PKM for anything that you&amp;rsquo;re into, like when you&amp;rsquo;re working on your PhD, or just want to remember what shows you watched or want to watch, or you stumbled upon a topic and don&amp;rsquo;t want to forget everything that you&amp;rsquo;ve learned by next week, or maybe you just want to track your habits, your workouts or your dreams and goals over time, or maybe you want to remember and cherish all the memories of your loved ones, or just and to remember how you&amp;rsquo;ve lived a good life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/posts/what-is-a-pkm/feature.webp" />
+    </item>
+    
     <item>
       <title>✍🏻 Learn To Write</title>
-      <link>exiagarden.github.io/posts/learn-to-write/</link>
+      <link>https://exiasgarden.pages.dev/moc/level-64/learn-to-write/</link>
       <pubDate>Sat, 26 Nov 2022 14:45:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/learn-to-write/</guid>
+      <guid>https://exiasgarden.pages.dev/moc/level-64/learn-to-write/</guid>
       <description>Jordan Peterson says that in order to think well its best to learn to write. When you can organize your thoughts well on a paper (or in this any digital format like this one) it helps you see things better in your head. And he is not the first one to say this I think.
 I remember writing something similar when I was writing a post on insightfulsage.com. It said something similar, that organzing your thoughts on a paper helps you see them clearly.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/learn-to-write/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/learn-to-write/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>How Not Watching Porn Changes Your Mind</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/how-not-watching-porn-changes-your-mind/</link>
+      <pubDate>Mon, 21 Nov 2022 00:28:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/how-not-watching-porn-changes-your-mind/</guid>
+      <description>The effects of watching porn is already discussed in one of my previous notes Thoughts On Masturbation And Porn. So in this one we&amp;rsquo;ll just focus on what changes when we don&amp;rsquo;t watch porn.
+It Has No Net Positive&gt; It Has No Net Positive # Porn overall has no real purpose in your life. We have gotten used to porn in recent years just because we now have the access to it, with fast internet and way too much porn content that&amp;rsquo;s produced on a daily basis.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/how-not-watching-porn-changes-your-mind/feature.webp" />
+    </item>
+    
+    <item>
+      <title>The Theories About God &amp; Universe</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/theories-about-god-universe/</link>
+      <pubDate>Wed, 16 Nov 2022 22:24:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/theories-about-god-universe/</guid>
+      <description>I have a few things that I want to put down here as my theories as to how God has designed the universe to function. These theories have evolved over time and will continue to change as I think more about these things and get more knowledge over time.
+We Go Through A Cycle Of Re-Birth&gt; We Go Through A Cycle Of Re-Birth # We go through a cycle of rebirth.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/theories-about-god-universe/feature.webp" />
     </item>
     
     <item>
       <title>🔎 Finding Meaning In Life With Friends And Family</title>
-      <link>exiagarden.github.io/posts/finding-meaning-with-friends-and-family/</link>
+      <link>https://exiasgarden.pages.dev/posts/finding-meaning-with-friends-and-family/</link>
       <pubDate>Thu, 10 Nov 2022 22:21:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/finding-meaning-with-friends-and-family/</guid>
+      <guid>https://exiasgarden.pages.dev/posts/finding-meaning-with-friends-and-family/</guid>
       <description>Friends and family are the most important part of my life, like for many others. I cannot imagine my life without these people. Although it&amp;rsquo;s hard to explain what they mean to me or how friends and family can give your life meaning but, Here&amp;rsquo;s what I have. I might not be able to formulate all my thoughts properly, So I might add another post in the future.
 They Love Me For Who I&amp;rsquo;m&gt; They Love Me For Who I&amp;rsquo;m # Friends and family love you for who you are.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/finding-meaning-with-friends-and-family/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/posts/finding-meaning-with-friends-and-family/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>📚 Chapter 3 - Hovers, Transitions, Shadows</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/</link>
+      <pubDate>Wed, 02 Nov 2022 13:55:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/</guid>
+      <description>Exercise 3-1 - Different Button Style For Hover, Transition, Shadows&gt; Exercise 3-1 - Different Button Style For Hover, Transition, Shadows # &amp;lt;style&amp;gt; .requestnow{ background-color: black; color: white; height: 40px; width: 110px; border: none; margin-left: 5px; margin-right: 5px; border-radius: 2px; cursor: pointer; transition: opacity 0.15s; } .requestnow:hover{ opacity: 0.8; } .addtocart{ background-color: rgb(255,216,20); color: black; height: 40px; width: 150px; border: none; border-radius: 50px; margin-left: 5px; margin-right: 5px; cursor: pointer; transition: background-color 0.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/feature.webp" />
+    </item>
+    
+    <item>
+      <title>📚 Chapter 1 &amp; 2 - Basic HTML &amp; CSS</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/</link>
+      <pubDate>Wed, 02 Nov 2022 09:26:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/</guid>
+      <description>🔗 Resource link - https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-01
+started a course on HTML &amp;amp; CSS basics to expert. Super Basics -&gt; Super Basics - # Code&gt; Code # &amp;lt;button&amp;gt;Hello&amp;lt;/button&amp;gt; Making Buttons&gt; Making Buttons # &amp;lt;style&amp;gt; .subscribe-button{ background-color: rgb(200, 0, 0); color: white; border: none; height: 36px; width: 105px; border-radius: 2px; cursor: pointer; margin-right: 8px; } .join{ background-color: white; color: rgb(0, 204, 255); border-color: rgb(0, 204, 255); border-style: solid; border-width: 1px; height: 36px; width: 62px; border-radius: 2px; cursor: pointer; margin-right: 8px; } .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/feature.webp" />
     </item>
     
     <item>
       <title>😇 How To Become A Good Friend</title>
-      <link>exiagarden.github.io/posts/how-to-be-a-good-friend/</link>
+      <link>https://exiasgarden.pages.dev/posts/how-to-be-a-good-friend/</link>
       <pubDate>Sun, 16 Oct 2022 20:47:31 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/how-to-be-a-good-friend/</guid>
+      <guid>https://exiasgarden.pages.dev/posts/how-to-be-a-good-friend/</guid>
       <description>Who Is A Friend?&gt; Who Is A Friend? # It can be easy and hard to define what friendship is depending on who you&amp;rsquo;re talking to, but as I&amp;rsquo;m getting older the more I look into it, the better I feel about the friends that I have in my life.
 So who is a friend? A friend can be anyone, even a family member, if they fulfil some of these roles -</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/how-to-be-a-good-friend/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/posts/how-to-be-a-good-friend/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>📺 Anime Watched In 2022</title>
+      <link>https://exiasgarden.pages.dev/moc/watchlist/anime-watched-in-2022/</link>
+      <pubDate>Mon, 11 Jul 2022 00:49:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/watchlist/anime-watched-in-2022/</guid>
+      <description>The ones which are not rated are not watched completely or I&amp;rsquo;ve given up on watching them because they were just too bad! 🤮 Name Rating Mamahaha No Tsurego Ga Motokano Datta Tensei Kenja No Isekai Life: Dai-2 No Shokugyou Wo Ete, Sekai Saikyou No Narimashita Nazo No Kanojo X Net-Juu No Susume ⭐⭐ Shuumatsu No Harem Arcane ⭐⭐⭐⭐⭐ Boku No Hero Academia Season 4 ⭐⭐⭐ Call Of The Night ⭐⭐⭐ Yofukashi No Uta ⭐⭐⭐ The Dungeon Only I Can Enter ⭐⭐ Accel world Tensei Shitara Ken Deshita ⭐⭐ Full Dive MSG: The girl from mercury ⭐⭐⭐ koi wa sekai seifuku no ato de maoyuu maou yuusha planetes bokura wa minna kawaisou ⭐⭐⭐ kinsou no vermeil: gakeppuchi majutsushi wa thermae romae novae kononaka ni nitori, imouto ga iru!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/watchlist/anime-watched-in-2022/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Dunning Kruger Effect</title>
+      <link>https://exiasgarden.pages.dev/moc/effects/dunning-kruger-effect/</link>
+      <pubDate>Wed, 08 Jun 2022 15:14:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/effects/dunning-kruger-effect/</guid>
+      <description>What is the Dunning-Kruger Effect?&gt; What is the Dunning-Kruger Effect? # The Dunning-Kruger effect effect occurs when a person’s lack of knowledge and skills in a certain area cause them to overestimate their own competence. By contrast, this effect also causes those who excel in a given area to think the task is simple for everyone, and underestimate their relative abilities as well.
+Where this bias occurs&gt; Where this bias occurs # Imagine you and your friends decide to try something new—separately, you all start learning Spanish.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/effects/dunning-kruger-effect/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Core Idea Time Management</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/core-idea-management/</link>
+      <pubDate>Sat, 21 May 2022 12:21:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/core-idea-management/</guid>
+      <description>Capture&gt; Capture # Find a system that works for YOU. A system where you can capture all your ideas, tasks, projects, and relevant information. Preferably a system that allows you to overview and review all that information on a regular basis.
+Configure&gt; Configure # &amp;ldquo;Care more about how you actually organize this information that you are capturing&amp;rdquo;. Structure the information that you have captured, whether it is by categories or by role, etc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/core-idea-management/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Ad Hominem</title>
+      <link>https://exiasgarden.pages.dev/moc/effects/ad-hominem/</link>
+      <pubDate>Fri, 20 May 2022 08:41:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/effects/ad-hominem/</guid>
+      <description>An ad hominem fallacy uses personal attacks rather than logic. This fallacy occurs when someone rejects or criticizes another point of view based on the personal characteristics, ethnic background, physical appearance, or other non-relevant traits of the person who holds it.
+Ad Hominem arguments are often used in politics, where they are often called &amp;ldquo;mudslinging&amp;rdquo;.
+People utilize ad hominem fallacy because they want to appeal to people&amp;rsquo;s emotions.
+How to deal with ad hominem fallacy?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/effects/ad-hominem/feature.webp" />
     </item>
     
     <item>
       <title>❤️‍🔥 The Beauty Inside</title>
-      <link>exiagarden.github.io/posts/the-beauty-inside/</link>
+      <link>https://exiasgarden.pages.dev/moc/level-64/the-beauty-inside/</link>
       <pubDate>Mon, 16 May 2022 04:15:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/the-beauty-inside/</guid>
+      <guid>https://exiasgarden.pages.dev/moc/level-64/the-beauty-inside/</guid>
       <description>There&amp;rsquo;s a beauty inside all of us, although we may not see it all the time but, there are times when we see a glimpse of this beauty.
 It can be a strangers smile, It can be a gesture, it can be anything that gives us a window to see into the souls of others.
 Yesterday I saw a blind girl walking down the street, I don&amp;rsquo;t know what she was thinking but was just smiling.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/the-beauty-inside/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/the-beauty-inside/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Communicating Better</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/communicating-better/</link>
+      <pubDate>Sun, 26 Dec 2021 01:06:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/communicating-better/</guid>
+      <description>Master the ability to listen and understand.
+As a man who is evolved to fix &amp;amp; solve problems. It becomes a habit to listen to someone’s problems and try to find quick solutions but this is not always the right thing to do. Sometimes people especially, women who are evolved to share their problems and communicate things with each other, Always trying to find a solution or fixing the issues is not the agenda.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/communicating-better/feature.webp" />
     </item>
     
     <item>
       <title>Compassion In Humans And The Future</title>
-      <link>exiagarden.github.io/posts/compassion-in-humans-and-the-future/</link>
+      <link>https://exiasgarden.pages.dev/moc/level-64/compassion-in-humans-and-the-future/</link>
       <pubDate>Thu, 28 Oct 2021 23:32:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/compassion-in-humans-and-the-future/</guid>
+      <guid>https://exiasgarden.pages.dev/moc/level-64/compassion-in-humans-and-the-future/</guid>
       <description>Do humans need to create a standard for compassion and empathy&gt; Do humans need to create a standard for compassion and empathy # We as humans are getting smarter with time but as all we do is get intelligence that doesn&amp;rsquo;t mean that are getting equally compassionate or moral. Going into the future with just intelligence is like shooting a gun but unable to see anything. It can lead to many disasters as people put their own self interests and wants before anything else.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/compassion-in-humans-and-the-future/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/compassion-in-humans-and-the-future/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Thoughts On Masturbation And Porn</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/thoughts-on-masturbation-and-porn/</link>
+      <pubDate>Tue, 19 Oct 2021 12:41:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/thoughts-on-masturbation-and-porn/</guid>
+      <description>How watching porn can rewire our brain&gt; How watching porn can rewire our brain # Having the option to see many women in that position where your primal mind sees them as a sexual partner is something we didn&amp;rsquo;t have a few decades also. The option to fast-forward, click to another tab and have endless option of items to see and get excited from create a huge problem when it comes to how we see sex as a whole.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/thoughts-on-masturbation-and-porn/feature.webp" />
     </item>
     
     <item>
       <title>Productivity Hacks</title>
-      <link>exiagarden.github.io/posts/productivitty-hacks/</link>
+      <link>https://exiasgarden.pages.dev/moc/level-64/productivitty-hacks/</link>
       <pubDate>Mon, 11 Oct 2021 14:23:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/productivitty-hacks/</guid>
+      <guid>https://exiasgarden.pages.dev/moc/level-64/productivitty-hacks/</guid>
       <description>1. Use A Calender&gt; 1. Use A Calender # Use calendar and time block to make sure you are doing what you&amp;rsquo;re supposed to be doing, this also helps with reminders.
 2. Create A &amp;ldquo;Might-Do List&amp;rdquo; Of Daily Tasks&gt; 2. Create A &amp;ldquo;Might-Do List&amp;rdquo; Of Daily Tasks # These are the potential things I can do in the day.
 Also add on &amp;ldquo;Highlight of the day&amp;rdquo; task. This is the most important task of the day, if this is done the day can be considered a success.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/productivitty-hacks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/productivitty-hacks/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>MILES framework</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/miles-framework/</link>
+      <pubDate>Mon, 11 Oct 2021 01:02:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/miles-framework/</guid>
+      <description> A framework from the book &amp;lsquo;Unfair Advantage.&amp;rsquo; MILES framework talks about how one can get an unfair advantage with things like Money, Intelligence, Insight, Luck, Education, Expertise, and Status. You can have any one of multiple of these advantages. It&amp;rsquo;s a matter of recognizing what you have and playing to your strengths. </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/miles-framework/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Unfair Advantage</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/unfair-advantage/</link>
+      <pubDate>Mon, 11 Oct 2021 00:37:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/unfair-advantage/</guid>
+      <description>An unfair advantage is something that cannot be easily copied or bought by your competitor. Success is a combination fair play and unfair advantages. Success = Fair Play + Unfair Advantages. Fair play = Getting up early, hustling, Working hard on your business. Unfair Advantage = Getting 500k from your parents to start up your own business. Types of unfair advantages one can have or the [[MILES framework]]. = Money, Intelligence, Insight, Location, Luck, Education, Expertise, Status.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/unfair-advantage/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Random Quotes</title>
+      <link>https://exiasgarden.pages.dev/posts/random-quotes/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/posts/random-quotes/</guid>
+      <description>Your actions precede emotion and your emotions precede action.
+It just depends on which one you are focusing on at the moment. Sometimes life shows you your flaws, and it does it very brutally.
+You need to understand though, that blaming life or anything else won&amp;rsquo;t help you, the only thing that&amp;rsquo;ll help you is learning what it&amp;rsquo;s trying to teach you. There is a jewel in everyone, it&amp;rsquo;s rare to see it shine but it&amp;rsquo;s always amazing to see when you do see it shine.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/posts/random-quotes/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Selective Understanding Flaws Of Humans</title>
+      <link>https://exiasgarden.pages.dev/moc/level-64/selective-understanding-flaws-of-humans/</link>
+      <pubDate>Sun, 05 Sep 2021 00:26:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/level-64/selective-understanding-flaws-of-humans/</guid>
+      <description>Often times we consider ourselves as an understanding person. Although how true this can be depends on person-to-person. There are times that even an understanding person might not be able to understand somethings. A person can be very oblivious to some aspects even though they might be very well in others. This can affect relationships if not taken care of properly. We often make the perception that if a person didn&amp;rsquo;t understand it the first time, they might not understand it ever again.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/selective-understanding-flaws-of-humans/feature.webp" />
+    </item>
+    
+    <item>
+      <title>The Pygmalion Effect</title>
+      <link>https://exiasgarden.pages.dev/moc/effects/the-pygmalion-effect/</link>
+      <pubDate>Thu, 19 Aug 2021 02:45:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/effects/the-pygmalion-effect/</guid>
+      <description>The pygmalion effect is a phenomena in which higher beliefs lead to higher performance. The pygmalion effect can be best understood by a circle. Our beliefs about other person influences our actions towards that person. Now this action has an impact on others beliefs about themselves. As others believes change it causes their actions to change. These actions again reinforce our believes about other person. which repeats the cycle. Imagine if I tell a girl that she is beautiful because I believe so, this will affect her belief and will help her take her beauty more seriously.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/effects/the-pygmalion-effect/feature.webp" />
     </item>
     
     <item>
       <title>Compounded Relationships</title>
-      <link>exiagarden.github.io/posts/compounded-relationships/</link>
+      <link>https://exiasgarden.pages.dev/moc/level-64/compounded-relationships/</link>
       <pubDate>Tue, 03 Aug 2021 13:41:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/posts/compounded-relationships/</guid>
+      <guid>https://exiasgarden.pages.dev/moc/level-64/compounded-relationships/</guid>
       <description>Like compound interest in financial market and money we can also get compound interest/benefits in our relationships. Imagine investing in a good relationship for a long time, this relationship will give you more benefits than if you were to start that relationship and break it in between then start it again and do the same thing. With time relationships have the potential to grow at an exponential rate. It depends on how one manages the relationship.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/exiagarden.github.io/posts/compounded-relationships/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://exiasgarden.pages.dev/moc/level-64/compounded-relationships/feature.jpg" />
     </item>
     
   </channel>

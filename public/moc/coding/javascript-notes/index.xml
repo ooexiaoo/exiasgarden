@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>💻 JavaScript Notes on EXIA&#39;s Garden</title>
+    <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/</link>
+    <description>Recent content in 💻 JavaScript Notes on EXIA&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 11:20:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/moc/coding/javascript-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functions</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/</link>
+      <pubDate>Mon, 02 Jan 2023 11:20:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/</guid>
+      <description>A function is a block of code that&amp;rsquo;s named, you can use that name or a variable that points to that function.
+If you&amp;rsquo;re not writing the code inside a function, then you&amp;rsquo;re writing the code inside the global scope, which is pretty limited. Most of the code that you write, you&amp;rsquo;d want them to be reusable within functions.
+Function Basics&gt; Function Basics # One way to look at functions is that a function is a block of code with a name and because it has a name you can call it over and over.</description>
+    </item>
+    
+    <item>
+      <title>Program Flow</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/</link>
+      <pubDate>Thu, 29 Dec 2022 08:37:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/</guid>
+      <description>Ref Link - https://www.pluralsight.com/courses/javascript-getting-started
+In JavaScript, sometimes we have to conditionally execute some code blocks, but if the condition is not fulfilled we don&amp;rsquo;t.
+We do this by adding if statement and in parentheses we put the conditions (5 === 5) if the condition is true we execute the code block, in this case it&amp;rsquo;s the code in the parentheses {}.
+In the example below, we are working with numbers, but in most cases we&amp;rsquo;ll be working with variables as shown in the second example.</description>
+    </item>
+    
+  </channel>
+</rss>

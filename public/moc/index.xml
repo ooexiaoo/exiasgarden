@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOC on EXIA&#39;s Garden</title>
+    <link>https://exiasgarden.pages.dev/moc/</link>
+    <description>Recent content in MOC on EXIA&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jan 2023 13:33:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/moc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About My Garden</title>
+      <link>https://exiasgarden.pages.dev/moc/about-my-garden/</link>
+      <pubDate>Wed, 04 Jan 2023 13:33:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/about-my-garden/</guid>
+      <description>MOCs&gt; MOCs # Maps Of Contents or MOCs are nothing more than a dashboard on a specific topic. They are there to provide an easy way to access and absorb any content on the site.
+Fleeting Notes&gt; Fleeting Notes # Fleeting notes are ideas that are captured in a quick and easy to digest format. These are not complete ideas and are often nothing more than a few points. These can be mostly be found in level 64.</description>
+    </item>
+    
+    <item>
+      <title>📃 Good Reads</title>
+      <link>https://exiasgarden.pages.dev/moc/good-reads/</link>
+      <pubDate>Wed, 21 Dec 2022 21:10:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/good-reads/</guid>
+      <description> https://www.simplypsychology.org/Zone-of-Proximal-Development.html </description>
+    </item>
+    
+  </channel>
+</rss>

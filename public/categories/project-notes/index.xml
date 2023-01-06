@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Notes on EXIA&#39;s Garden</title>
+    <link>https://exiasgarden.pages.dev/categories/project-notes/</link>
+    <description>Recent content in Project Notes on EXIA&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jan 2023 11:20:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/categories/project-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functions</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/</link>
+      <pubDate>Mon, 02 Jan 2023 11:20:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/javascript-notes/functions/</guid>
+      <description>A function is a block of code that&amp;rsquo;s named, you can use that name or a variable that points to that function.
+If you&amp;rsquo;re not writing the code inside a function, then you&amp;rsquo;re writing the code inside the global scope, which is pretty limited. Most of the code that you write, you&amp;rsquo;d want them to be reusable within functions.
+Function Basics&gt; Function Basics # One way to look at functions is that a function is a block of code with a name and because it has a name you can call it over and over.</description>
+    </item>
+    
+    <item>
+      <title>Program Flow</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/</link>
+      <pubDate>Thu, 29 Dec 2022 08:37:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/javascript-notes/program-flow/</guid>
+      <description>Ref Link - https://www.pluralsight.com/courses/javascript-getting-started
+In JavaScript, sometimes we have to conditionally execute some code blocks, but if the condition is not fulfilled we don&amp;rsquo;t.
+We do this by adding if statement and in parentheses we put the conditions (5 === 5) if the condition is true we execute the code block, in this case it&amp;rsquo;s the code in the parentheses {}.
+In the example below, we are working with numbers, but in most cases we&amp;rsquo;ll be working with variables as shown in the second example.</description>
+    </item>
+    
+    <item>
+      <title>💻 Web Pages I&#39;ve Codded From Scratch</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/</link>
+      <pubDate>Wed, 28 Dec 2022 09:23:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/webpages/web-pages-ive-codded-from-scratch/</guid>
+      <description>Matrix&gt; Matrix # https://ooexiaoo.github.io/Matrix/ Is a cyperpunk style webpage and I added some images and created a projects section as well for this.
+Waifu-Walls&gt; Waifu-Walls # https://ooexiaoo.github.io/Waifu-Walls/ Attempted to create a neomorphic and glassmorphic design, didn&amp;rsquo;t turn out to be too good, but is a good experience to make this design. The webpage doesn&amp;rsquo;t do anything, it&amp;rsquo;s more of a design practice.
+Personal-site-trial&gt; Personal-site-trial # https://ooexiaoo.github.io/personal-site-trial/ I really wanted to try neomorphism design, so spent a few days writing some code for this one.</description>
+    </item>
+    
+    <item>
+      <title>📚 Chapter 3 - Hovers, Transitions, Shadows</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/</link>
+      <pubDate>Wed, 02 Nov 2022 13:55:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/</guid>
+      <description>Exercise 3-1 - Different Button Style For Hover, Transition, Shadows&gt; Exercise 3-1 - Different Button Style For Hover, Transition, Shadows # &amp;lt;style&amp;gt; .requestnow{ background-color: black; color: white; height: 40px; width: 110px; border: none; margin-left: 5px; margin-right: 5px; border-radius: 2px; cursor: pointer; transition: opacity 0.15s; } .requestnow:hover{ opacity: 0.8; } .addtocart{ background-color: rgb(255,216,20); color: black; height: 40px; width: 150px; border: none; border-radius: 50px; margin-left: 5px; margin-right: 5px; cursor: pointer; transition: background-color 0.</description>
+    </item>
+    
+    <item>
+      <title>📚 Chapter 1 &amp; 2 - Basic HTML &amp; CSS</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/</link>
+      <pubDate>Wed, 02 Nov 2022 09:26:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/</guid>
+      <description>🔗 Resource link - https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-01
+started a course on HTML &amp;amp; CSS basics to expert. Super Basics -&gt; Super Basics - # Code&gt; Code # &amp;lt;button&amp;gt;Hello&amp;lt;/button&amp;gt; Making Buttons&gt; Making Buttons # &amp;lt;style&amp;gt; .subscribe-button{ background-color: rgb(200, 0, 0); color: white; border: none; height: 36px; width: 105px; border-radius: 2px; cursor: pointer; margin-right: 8px; } .join{ background-color: white; color: rgb(0, 204, 255); border-color: rgb(0, 204, 255); border-style: solid; border-width: 1px; height: 36px; width: 62px; border-radius: 2px; cursor: pointer; margin-right: 8px; } .</description>
+    </item>
+    
+  </channel>
+</rss>

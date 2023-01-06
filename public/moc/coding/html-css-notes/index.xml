@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>💻 HTML &amp; CSS Notes on EXIA&#39;s Garden</title>
+    <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/</link>
+    <description>Recent content in 💻 HTML &amp; CSS Notes on EXIA&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 13:55:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/moc/coding/html-css-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📚 Chapter 3 - Hovers, Transitions, Shadows</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/</link>
+      <pubDate>Wed, 02 Nov 2022 13:55:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-2/</guid>
+      <description>Exercise 3-1 - Different Button Style For Hover, Transition, Shadows&gt; Exercise 3-1 - Different Button Style For Hover, Transition, Shadows # &amp;lt;style&amp;gt; .requestnow{ background-color: black; color: white; height: 40px; width: 110px; border: none; margin-left: 5px; margin-right: 5px; border-radius: 2px; cursor: pointer; transition: opacity 0.15s; } .requestnow:hover{ opacity: 0.8; } .addtocart{ background-color: rgb(255,216,20); color: black; height: 40px; width: 150px; border: none; border-radius: 50px; margin-left: 5px; margin-right: 5px; cursor: pointer; transition: background-color 0.</description>
+    </item>
+    
+    <item>
+      <title>📚 Chapter 1 &amp; 2 - Basic HTML &amp; CSS</title>
+      <link>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/</link>
+      <pubDate>Wed, 02 Nov 2022 09:26:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/moc/coding/html-css-notes/chapter-1/</guid>
+      <description>🔗 Resource link - https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-01
+started a course on HTML &amp;amp; CSS basics to expert. Super Basics -&gt; Super Basics - # Code&gt; Code # &amp;lt;button&amp;gt;Hello&amp;lt;/button&amp;gt; Making Buttons&gt; Making Buttons # &amp;lt;style&amp;gt; .subscribe-button{ background-color: rgb(200, 0, 0); color: white; border: none; height: 36px; width: 105px; border-radius: 2px; cursor: pointer; margin-right: 8px; } .join{ background-color: white; color: rgb(0, 204, 255); border-color: rgb(0, 204, 255); border-style: solid; border-width: 1px; height: 36px; width: 62px; border-radius: 2px; cursor: pointer; margin-right: 8px; } .</description>
+    </item>
+    
+  </channel>
+</rss>

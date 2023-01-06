@@ -2,35 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on EXIA&#39;s Garden</title>
-    <link>exiagarden.github.io/categories/</link>
+    <link>https://exiasgarden.pages.dev/categories/</link>
     <description>Recent content in Categories on EXIA&#39;s Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2022 14:45:30 +0530</lastBuildDate><atom:link href="exiagarden.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 13:33:30 +0530</lastBuildDate><atom:link href="https://exiasgarden.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Personal Development</title>
-      <link>exiagarden.github.io/categories/personal-development/</link>
-      <pubDate>Sat, 26 Nov 2022 14:45:30 +0530</pubDate>
+      <title>Reference Notes</title>
+      <link>https://exiasgarden.pages.dev/categories/reference-notes/</link>
+      <pubDate>Wed, 04 Jan 2023 13:33:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/categories/personal-development/</guid>
+      <guid>https://exiasgarden.pages.dev/categories/reference-notes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thoughts</title>
-      <link>exiagarden.github.io/categories/thoughts/</link>
-      <pubDate>Mon, 16 May 2022 04:15:30 +0530</pubDate>
+      <title>Project Notes</title>
+      <link>https://exiasgarden.pages.dev/categories/project-notes/</link>
+      <pubDate>Mon, 02 Jan 2023 11:20:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/categories/thoughts/</guid>
+      <guid>https://exiasgarden.pages.dev/categories/project-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Permanent Notes</title>
+      <link>https://exiasgarden.pages.dev/categories/permanent-notes/</link>
+      <pubDate>Sat, 31 Dec 2022 09:03:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/categories/permanent-notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fleeting Notes</title>
-      <link>exiagarden.github.io/categories/fleeting-notes/</link>
-      <pubDate>Thu, 28 Oct 2021 23:32:30 +0530</pubDate>
+      <link>https://exiasgarden.pages.dev/categories/fleeting-notes/</link>
+      <pubDate>Sun, 25 Dec 2022 06:59:30 +0530</pubDate>
       
-      <guid>exiagarden.github.io/categories/fleeting-notes/</guid>
+      <guid>https://exiasgarden.pages.dev/categories/fleeting-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investment</title>
+      <link>https://exiasgarden.pages.dev/categories/investment/</link>
+      <pubDate>Thu, 08 Dec 2022 09:40:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/categories/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literature Notes</title>
+      <link>https://exiasgarden.pages.dev/categories/literature-notes/</link>
+      <pubDate>Thu, 08 Dec 2022 06:25:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/categories/literature-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://exiasgarden.pages.dev/categories/thoughts/</link>
+      <pubDate>Mon, 16 May 2022 04:15:30 +0530</pubDate>
+      
+      <guid>https://exiasgarden.pages.dev/categories/thoughts/</guid>
       <description></description>
     </item>
     
